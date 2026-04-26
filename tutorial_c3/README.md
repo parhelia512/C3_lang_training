@@ -17,6 +17,8 @@ LLVM default target:       arm64-apple-darwin23.4.0
 # 260415) They Released C 3.0! | Avey Dev
 - https://youtu.be/nlt52b5kH7Y?si=UZVvmKekgGtVeab8
 
+- https://gitlab.com/avey.dev/c3
+
 ```c3
 module helloworld;
 import std::io;
